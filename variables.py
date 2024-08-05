@@ -21,14 +21,14 @@ class Config(object):
     MESSAGE_DUMP = --1002249319477
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://madarazbotz:uAcFszAkr5zoiyuv@cluster0.hep1w7t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
     SUPPORT_CHAT = "unreal_x_support"
     SUPPORT_ID = -1002211086274
 
     # Database name
-    DB_NAME = "cluster0"
+    DB_NAME = "Cluster0"
 
     # Bot token
     TOKEN = "7202673383:AAE_LuVDJyfD41EQGx6bJCr5Dk97vMKpPV4"  # Get bot token from @BotFather on Telegram
