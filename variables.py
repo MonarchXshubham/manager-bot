@@ -17,8 +17,8 @@ class Config(object):
     DATABASE_URL = "postgresql://postgres:OMmMozXruEulVmeqrGqDmzCpMquwDOoU@postgres.railway.internal:5432/railway"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = --1002235766670
-    MESSAGE_DUMP = --1002249319477
+    EVENT_LOGS = -1002235766670
+    MESSAGE_DUMP = -1002249319477
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://madarazbotz:uAcFszAkr5zoiyuv@cluster0.hep1w7t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
