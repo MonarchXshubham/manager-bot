@@ -1123,7 +1123,7 @@ function(SET_TITLE_HANDLER)
 function(ADMIN_REFRESH_HANDLER)
 function(ADMIN_CALLBACK_HANDLER)
 
-__mod_name__ = "ADMIN"
+__mod_name__ = "ᴀᴅᴍɪɴ🥀"
 __command_list__ = [
     "adminlist",
     "admins",
