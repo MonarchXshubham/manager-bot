@@ -16,7 +16,7 @@ cachetools==5.3.3
 dateparser==1.2.0
 
 # ==== E ====
-emoji==2.11.1
+emoji==2.14.0
 emoji-country-flag==2.0.0
 
 # ==== F ====
